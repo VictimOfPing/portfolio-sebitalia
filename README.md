@@ -12,7 +12,7 @@ The result is a responsive React website that turns the product story into clear
 
 ## Preview
 
-[![SEB Italia home page preview](output/playwright/sebitalia-home-hero.png)](https://sebitalia.com)
+[![SEB Italia home page preview](sebitalia-home-hero.png)](https://sebitalia.com)
 
 **Live website:** https://sebitalia.com
 
